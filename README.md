@@ -4,4 +4,5 @@ This is a project which I have made with HTML And CSS only.
 
 
 My output screen:-
-![Capture](https://github.com/user-attachments/assets/939201bb-402c-431b-86da-a5a9b6242e5a)
+![Screenshot 2024-11-05 090014](https://github.com/user-attachments/assets/6f55a75a-840c-4ce0-9d23-503bbed85acb)
+
