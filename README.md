@@ -1,6 +1,3 @@
-# Spotify-Clone_Project(Web Devlepoment)
-Here's a simple README markdown file based on your input:
-
 # Spotify Clone
 
 A visual replica of the Spotify interface created using HTML and CSS.
